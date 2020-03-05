@@ -1,0 +1,4 @@
+/* pages/home.wxss */
+.red {
+  color: red;
+}

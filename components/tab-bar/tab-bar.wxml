@@ -1,0 +1,6 @@
+<!--components/tab-bar/tab-bar.wxml-->
+<view class="container">
+  <block wx:for='{{titles}}' wx:key='{{index}}'>
+    <view class="tab-item">{{item}}</view>
+  </block>
+</view>

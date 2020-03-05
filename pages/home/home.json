@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "my-cpn":"/components/my-cpn/my-cpn",
+    "my-prop": "/components/my-prop/my-prop",
+    "my-event": "/components/my-event/my-event",
+    "tab-bar": "/components/tab-bar/tab-bar"
+
+  }
+}

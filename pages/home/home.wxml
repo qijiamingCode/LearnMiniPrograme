@@ -1,0 +1,21 @@
+<!--pages/home.wxml-->
+<!-- <text>我是home.wxml</text>
+
+<my-cpn/>
+<my-prop title="aaa" titleclass='red'></my-prop>
+<my-prop/>
+
+<view>当前计数：{{counter}}</view>
+<my-event bind:increment='increment'></my-event>
+
+<tab-bar titles="{{['流行','新款','精选']}}"/> -->
+
+<!-- API展示窗口 -->
+<button bind:tap="handShowToast">showToast</button>
+<button bind:tap="handShowModal">showToast</button>
+<button bind:tap="handShowActionStreet">showToast</button>
+<navigator url="/pages/about/about">跳转</navigator>
+
+
+
+

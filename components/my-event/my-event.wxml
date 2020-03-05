@@ -1,0 +1,3 @@
+<!--components/my-event/my-event.wxml-->
+<text>我是my-event</text>
+<button size="mini" bindtap="increment">+1</button>

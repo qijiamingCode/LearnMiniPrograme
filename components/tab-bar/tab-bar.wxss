@@ -1,0 +1,11 @@
+/* components/tab-bar/tab-bar.wxss */
+.container {
+  display: flex;
+  height: 64rpx;
+  line-height: 64rpx;
+}
+
+.tab-item {
+  flex: 1;
+  text-align: center
+}
